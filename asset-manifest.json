@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/project-/static/css/main.359cdc65.css",
+    "main.js": "/project-/static/js/main.f3d909e2.js",
+    "static/js/787.ec704a7a.chunk.js": "/project-/static/js/787.ec704a7a.chunk.js",
+    "static/media/news1.jpg": "/project-/static/media/news1.d5049fdb690d41fff092.jpg",
+    "static/media/Electricity.jpg": "/project-/static/media/Electricity.016e73d84efa4fb3de96.jpg",
+    "static/media/news2.jpg": "/project-/static/media/news2.0f8f49a64a762b449a57.jpg",
+    "static/media/news3.jpg": "/project-/static/media/news3.f8e6834cc1f9eba5404c.jpg",
+    "static/media/2.jpg": "/project-/static/media/2.c73bc2f9c4483ef2dce2.jpg",
+    "static/media/img1.jpg": "/project-/static/media/img1.4928f22eeefe3c79d580.jpg",
+    "static/media/Mat2.jpg": "/project-/static/media/Mat2.b92376c7ccbe2b2ea1cf.jpg",
+    "static/media/Mat4.jpg": "/project-/static/media/Mat4.3dca8c26011f8e231df4.jpg",
+    "static/media/comimg.svg": "/project-/static/media/comimg.6ae52e7b5d41f7cd2a4c23d4173b45f0.svg",
+    "static/media/Mat1.jpg": "/project-/static/media/Mat1.4a509e3217f90d9b4b64.jpg",
+    "static/media/Mat5.jpg": "/project-/static/media/Mat5.17706acf9ec99030d445.jpg",
+    "static/media/logo 4.svg": "/project-/static/media/logo 4.173f217a84779bed7615339713226e8b.svg",
+    "static/media/Mat3.jpg": "/project-/static/media/Mat3.e35486491044a486f650.jpg",
+    "static/media/icon2.svg": "/project-/static/media/icon2.ca8d9084653e05c2efdb66e6aca3a3c7.svg",
+    "static/media/icon3.svg": "/project-/static/media/icon3.ea21b224879d7979c8ad6d4a8143a2fc.svg",
+    "static/media/icon.svg": "/project-/static/media/icon.94ac61f694d4dfd7f8165dba4dafc394.svg",
+    "static/media/slick.svg": "/project-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/project-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/project-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/project-/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/project-/index.html",
+    "main.359cdc65.css.map": "/project-/static/css/main.359cdc65.css.map",
+    "main.f3d909e2.js.map": "/project-/static/js/main.f3d909e2.js.map",
+    "787.ec704a7a.chunk.js.map": "/project-/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359cdc65.css",
+    "static/js/main.f3d909e2.js"
+  ]
+}
